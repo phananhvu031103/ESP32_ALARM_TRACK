@@ -298,5 +298,7 @@ System started
 | Active (GPS ON) | ~200mA        | Khi tracking             |
 | Peak (SIM TX)   | ~400mA        | Khi gửi SMS/MQTT         |
 
+## Kết quả thực hiện: 
+https://www.youtube.com/watch?v=mN-s30zn16E
 
 
